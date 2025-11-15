@@ -1,0 +1,15 @@
+.Hello_h1{
+    color : blueviolet;
+}
+
+.world-img{
+  width: 200px;
+  height: auto;
+}
+
+.hello-container {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  background-image:
+    radial-gradient(rgba(255,255,255,0.1) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
